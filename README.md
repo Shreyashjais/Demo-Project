@@ -1,3 +1,3 @@
 # Demo-Project
 
-Author: Shreyash Jaiswal
+Author: Shreyash Jaiswal (KGS)
